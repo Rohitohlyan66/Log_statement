@@ -1,0 +1,2 @@
+rootProject.name='Log statement'
+include ':app'
